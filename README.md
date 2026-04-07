@@ -10,6 +10,12 @@ A simple iOS mood journaling app built with SwiftUI. Log how you're feeling with
 - **Insights Dashboard** — Track your streak, top moods, weekly overview, and latest reflection at a glance.
 - **Dark Theme** — Soft glows and a dark palette designed for comfortable journaling.
 
+## Demo
+
+<p align="center">
+  <video src="https://github.com/zhaziragaripolla/MoodJournalApp/raw/main/screenshots/main.mov" width="280" />
+</p>
+
 ## Screenshots
 
 <p align="center">
